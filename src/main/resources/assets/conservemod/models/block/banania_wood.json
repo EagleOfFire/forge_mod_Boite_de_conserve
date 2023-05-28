@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "conservemod:block/banania_wood_top",
+    "side": "conservemod:block/banania_wood"
+  }
+}
